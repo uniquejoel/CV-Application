@@ -1,0 +1,22 @@
+.Edu{
+  width: 60%;
+  background-color: white;
+  color: black;
+  padding-left: 1rem;
+}
+.section2 h2.head{
+    line-height: 15px;
+    font-size: 35px;
+}
+
+.front{
+    margin-top: -10px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.com{
+    text-decoration: underline;
+}
+
+

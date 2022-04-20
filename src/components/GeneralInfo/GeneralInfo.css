@@ -1,0 +1,21 @@
+.GeneralInfo{
+  width: 40%;
+  background-color: #6f7777;
+  color: white;
+  text-align: right;
+  padding-right: 1rem;
+}
+
+
+
+.section1 h2.head{
+    line-height: 15px;
+    font-size: 35px;
+}
+
+.front{
+    margin-top: -10px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
